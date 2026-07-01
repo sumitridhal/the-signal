@@ -1,0 +1,110 @@
+[
+  {
+    "key": "hacker-news",
+    "name": "Hacker News",
+    "homepageUrl": "https://news.ycombinator.com/",
+    "feedUrl": "https://hnrss.org/frontpage?points=100",
+    "section": "technology",
+    "tags": ["technology", "programming"],
+    "enabled": true
+  },
+  {
+    "key": "ars-technica",
+    "name": "Ars Technica",
+    "homepageUrl": "https://arstechnica.com/",
+    "feedUrl": "https://feeds.arstechnica.com/arstechnica/index/",
+    "section": "technology",
+    "tags": ["technology", "news"],
+    "enabled": true
+  },
+  {
+    "key": "github-blog",
+    "name": "GitHub Blog",
+    "homepageUrl": "https://github.blog/",
+    "feedUrl": "https://github.blog/feed/",
+    "section": "technology",
+    "tags": ["github", "engineering"],
+    "enabled": true
+  },
+  {
+    "key": "mit-technology-review-ai",
+    "name": "MIT Technology Review AI",
+    "homepageUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "feedUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+    "section": "ai",
+    "tags": ["ai", "editorial"],
+    "enabled": true
+  },
+  {
+    "key": "openai-news",
+    "name": "OpenAI News",
+    "homepageUrl": "https://openai.com/news/",
+    "feedUrl": "https://openai.com/news/rss.xml",
+    "section": "ai",
+    "tags": ["ai", "official"],
+    "enabled": true
+  },
+  {
+    "key": "hugging-face-blog",
+    "name": "Hugging Face Blog",
+    "homepageUrl": "https://huggingface.co/blog",
+    "feedUrl": "https://huggingface.co/blog/feed.xml",
+    "section": "ai",
+    "tags": ["ai", "machine-learning", "tooling"],
+    "enabled": true
+  },
+  {
+    "key": "the-gradient",
+    "name": "The Gradient",
+    "homepageUrl": "https://thegradient.pub/",
+    "feedUrl": "https://thegradient.pub/rss/",
+    "section": "ai",
+    "tags": ["ai", "research", "essays"],
+    "enabled": true
+  },
+  {
+    "key": "product-hunt",
+    "name": "Product Hunt",
+    "homepageUrl": "https://www.producthunt.com/",
+    "feedUrl": "https://www.producthunt.com/feed",
+    "section": "business",
+    "tags": ["product", "startup"],
+    "enabled": true
+  },
+  {
+    "key": "stripe-blog",
+    "name": "Stripe Blog",
+    "homepageUrl": "https://stripe.com/blog",
+    "feedUrl": "https://stripe.com/blog/feed.rss",
+    "section": "business",
+    "tags": ["business", "payments", "engineering"],
+    "enabled": true
+  },
+  {
+    "key": "a-list-apart",
+    "name": "A List Apart",
+    "homepageUrl": "https://alistapart.com/",
+    "feedUrl": "https://alistapart.com/main/feed/",
+    "section": "culture",
+    "tags": ["design", "ux", "web"],
+    "enabled": true
+  },
+  {
+    "key": "smashing-magazine",
+    "name": "Smashing Magazine",
+    "homepageUrl": "https://www.smashingmagazine.com/",
+    "feedUrl": "https://www.smashingmagazine.com/feed/",
+    "section": "culture",
+    "tags": ["design", "frontend", "ux"],
+    "enabled": true
+  },
+  {
+    "key": "nielsen-norman-group",
+    "name": "Nielsen Norman Group",
+    "homepageUrl": "https://www.nngroup.com/",
+    "feedUrl": "https://www.nngroup.com/feed/rss/",
+    "section": "culture",
+    "tags": ["design", "ux", "research"],
+    "enabled": true
+  }
+]
