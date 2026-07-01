@@ -4,6 +4,8 @@ export type LayoutPreset = 'newspaper' | 'reading-room' | 'compact';
 
 export type ThemePreference = 'system' | 'light' | 'dark';
 
+export type ThemeAccent = 'sepia' | 'slate' | 'sage' | 'rose';
+
 export type DensityPreference = 'comfortable' | 'compact';
 
 export interface FeedSource {
@@ -51,6 +53,7 @@ export interface UserPreferences {
   siteTitle: string;
   siteDeck: string;
   theme: ThemePreference;
+  themeAccent: ThemeAccent;
   density: DensityPreference;
   layoutPreset: LayoutPreset;
   sectionOrder: FeedSection[];
@@ -79,6 +82,7 @@ export const defaultPreferences: UserPreferences = {
   siteTitle: 'The Signal',
   siteDeck: 'A calm RSS front page you can fork, tune, and publish on GitHub Pages.',
   theme: 'system',
+  themeAccent: 'sepia',
   density: 'comfortable',
   layoutPreset: 'newspaper',
   sectionOrder: ['top', 'technology', 'ai', 'business', 'culture'],

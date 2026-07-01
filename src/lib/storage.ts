@@ -55,6 +55,9 @@ export function normalizePreferences(value: unknown): UserPreferences {
     siteTitle: typeof partial.siteTitle === 'string' && partial.siteTitle.trim() ? partial.siteTitle.trim() : defaultPreferences.siteTitle,
     siteDeck: typeof partial.siteDeck === 'string' && partial.siteDeck.trim() ? partial.siteDeck.trim() : defaultPreferences.siteDeck,
     theme: partial.theme === 'light' || partial.theme === 'dark' || partial.theme === 'system' ? partial.theme : defaultPreferences.theme,
+    themeAccent: partial.themeAccent === 'slate' || partial.themeAccent === 'sage' || partial.themeAccent === 'rose' || partial.themeAccent === 'sepia'
+      ? partial.themeAccent
+      : defaultPreferences.themeAccent,
     density: partial.density === 'compact' || partial.density === 'comfortable' ? partial.density : defaultPreferences.density,
     layoutPreset: partial.layoutPreset === 'reading-room' || partial.layoutPreset === 'compact' || partial.layoutPreset === 'newspaper'
       ? partial.layoutPreset

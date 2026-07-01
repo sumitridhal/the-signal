@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { defaultPreferences, sectionLabels, type FeedSection, type UserPreferences } from '../lib/schema';
+import { defaultPreferences, sectionLabels, type FeedSection, type LayoutPreset, type UserPreferences } from '../lib/schema';
 import { exportPreferences, importPreferences } from '../lib/storage';
 
 interface LayoutCustomizerProps {
@@ -59,6 +59,10 @@ export function LayoutCustomizer({ preferences, onChange }: LayoutCustomizerProp
     }
   }
 
+  function selectLayoutPreset(layoutPreset: LayoutPreset) {
+    updatePreference('layoutPreset', layoutPreset);
+  }
+
   return (
     <section className="control-panel" aria-labelledby="layout-customizer-title">
       <div>
@@ -77,28 +81,33 @@ export function LayoutCustomizer({ preferences, onChange }: LayoutCustomizerProp
           <input onChange={(event) => updatePreference('siteDeck', event.target.value)} value={preferences.siteDeck} />
         </label>
         <label>
-          Theme
-          <select onChange={(event) => updatePreference('theme', event.target.value as UserPreferences['theme'])} value={preferences.theme}>
-            <option value="system">System</option>
-            <option value="light">Light</option>
-            <option value="dark">Dark</option>
-          </select>
-        </label>
-        <label>
           Density
           <select onChange={(event) => updatePreference('density', event.target.value as UserPreferences['density'])} value={preferences.density}>
             <option value="comfortable">Comfortable</option>
             <option value="compact">Compact</option>
           </select>
         </label>
-        <label>
-          Layout preset
-          <select onChange={(event) => updatePreference('layoutPreset', event.target.value as UserPreferences['layoutPreset'])} value={preferences.layoutPreset}>
-            <option value="newspaper">Newspaper</option>
-            <option value="reading-room">Reading room</option>
-            <option value="compact">Compact wire</option>
-          </select>
-        </label>
+      </div>
+
+      <div className="layout-picker" aria-label="Layout preset">
+        {(['newspaper', 'reading-room', 'compact'] as const).map((layout) => (
+          <button
+            className={preferences.layoutPreset === layout ? `layout-card selected layout-${layout}` : `layout-card layout-${layout}`}
+            key={layout}
+            onClick={() => selectLayoutPreset(layout)}
+            type="button"
+          >
+            <span className="layout-skeleton" aria-hidden="true">
+              <span className="skeleton-masthead" />
+              <span className="skeleton-body">
+                <span />
+                <span />
+                <span />
+              </span>
+            </span>
+            <strong>{layout === 'newspaper' ? 'Newspaper' : layout === 'reading-room' ? 'Reading room' : 'Compact wire'}</strong>
+          </button>
+        ))}
       </div>
 
       <div className="section-order">

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T16:10:10.843Z",
+  "generatedAt": "2026-07-01T16:42:24.140Z",
   "itemCount": 138,
   "feeds": [
     {
@@ -241,6 +241,23 @@
   ],
   "items": [
     {
+      "id": "7c306b8646c2bc65",
+      "sourceKey": "ars-technica",
+      "sourceName": "Ars Technica",
+      "section": "technology",
+      "title": "NASA inspector general suggests Boeing's Starliner will now be a decade late",
+      "url": "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/",
+      "author": "Stephen Clark",
+      "publishedAt": "2026-07-01T16:11:39.000Z",
+      "excerpt": "Starliner's certification may be delayed to 2027, 10 years later than Boeing's original schedule.",
+      "imageUrl": null,
+      "tags": [
+        "technology",
+        "news"
+      ],
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
+    },
+    {
       "id": "1c77767e7d7a428b",
       "sourceKey": "github-blog",
       "sourceName": "GitHub Blog",
@@ -255,7 +272,24 @@
         "github",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
+    },
+    {
+      "id": "bc29638e2d635bb5",
+      "sourceKey": "ars-technica",
+      "sourceName": "Ars Technica",
+      "section": "technology",
+      "title": "A space history mystery: What happened to the Viking arm used 50 years ago?",
+      "url": "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
+      "author": "Robert Pearlman",
+      "publishedAt": "2026-07-01T15:20:34.000Z",
+      "excerpt": "A timely tale about a 50-year-old robotic arm...",
+      "imageUrl": null,
+      "tags": [
+        "technology",
+        "news"
+      ],
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "2f42130d207abec5",
@@ -272,7 +306,7 @@
         "ai",
         "editorial"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "b7962633fea65390",
@@ -283,13 +317,13 @@
       "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
       "author": "bilsbie",
       "publishedAt": "2026-07-01T14:26:07.000Z",
-      "excerpt": "Article URL: https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for Comments URL: https://news.ycombinator.com/item?id=48747389 Points: 106 # Comments: 42",
+      "excerpt": "Article URL: https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for Comments URL: https://news.ycombinator.com/item?id=48747389 Points: 153 # Comments: 64",
       "imageUrl": null,
       "tags": [
         "technology",
         "programming"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "06614a7b81c3eb32",
@@ -300,37 +334,37 @@
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
       "author": "defrost",
       "publishedAt": "2026-07-01T14:20:52.000Z",
-      "excerpt": "Article URL: https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/ Comments URL: https://news.ycombinator.com/item?id=48747304 Points: 129 # Comments: 27",
+      "excerpt": "https://biotic.org/research/spudcell/ Comments URL: https://news.ycombinator.com/item?id=48747304 Points: 201 # Comments: 54",
       "imageUrl": null,
       "tags": [
         "technology",
         "programming"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
-      "id": "dfae075ea7642100",
+      "id": "7660140c6019d238",
       "sourceKey": "hacker-news",
       "sourceName": "Hacker News",
       "section": "technology",
-      "title": "Why I Stopped Arguing with People",
+      "title": "Most arguments are about ego, not ideas",
       "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
       "author": "backlit4034",
       "publishedAt": "2026-07-01T13:29:29.000Z",
-      "excerpt": "Article URL: https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html Comments URL: https://news.ycombinator.com/item?id=48746445 Points: 460 # Comments: 365",
+      "excerpt": "Article URL: https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html Comments URL: https://news.ycombinator.com/item?id=48746445 Points: 510 # Comments: 394",
       "imageUrl": null,
       "tags": [
         "technology",
         "programming"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
-      "id": "0e4850a36221cca2",
+      "id": "3a116d1c14d7f7ca",
       "sourceKey": "ars-technica",
       "sourceName": "Ars Technica",
       "section": "technology",
-      "title": "UK likely to intervene in Paramount takeover of Warner Bros Discovery",
+      "title": "UK likely to intervene in Paramount takeover of Warner Bros. Discovery",
       "url": "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/",
       "author": "Daniel Thomas, Financial Times",
       "publishedAt": "2026-07-01T13:24:39.000Z",
@@ -340,24 +374,41 @@
         "technology",
         "news"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
-      "id": "c39be7233bd72af5",
+      "id": "c2162feb2462a04e",
       "sourceKey": "hacker-news",
       "sourceName": "Hacker News",
       "section": "technology",
-      "title": "Announcing Box3D :: Box2D",
-      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "author": "makepanic",
-      "publishedAt": "2026-07-01T12:12:17.000Z",
-      "excerpt": "Article URL: https://box2d.org/posts/2026/06/announcing-box3d/ Comments URL: https://news.ycombinator.com/item?id=48745445 Points: 124 # Comments: 27",
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "author": "Tiberium",
+      "publishedAt": "2026-07-01T12:13:34.000Z",
+      "excerpt": "Article URL: https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/ Comments URL: https://news.ycombinator.com/item?id=48745456 Points:...",
       "imageUrl": null,
       "tags": [
         "technology",
         "programming"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
+    },
+    {
+      "id": "3314067ad9cc5127",
+      "sourceKey": "hacker-news",
+      "sourceName": "Hacker News",
+      "section": "technology",
+      "title": "Announcing the release of Box3D, an open source 3D physics engine",
+      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+      "author": "makepanic",
+      "publishedAt": "2026-07-01T12:12:17.000Z",
+      "excerpt": "Article URL: https://box2d.org/posts/2026/06/announcing-box3d/ Comments URL: https://news.ycombinator.com/item?id=48745445 Points: 165 # Comments: 32",
+      "imageUrl": null,
+      "tags": [
+        "technology",
+        "programming"
+      ],
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "51f5da7f0a23eec0",
@@ -368,13 +419,13 @@
       "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
       "author": "_tk_",
       "publishedAt": "2026-07-01T11:35:20.000Z",
-      "excerpt": "Article URL: https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/ Comments URL: https://news.ycombinator.com/item?id=48745113 Points: 326 # Comments: 154",
+      "excerpt": "Article URL: https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/ Comments URL: https://news.ycombinator.com/item?id=48745113 Points: 348 # Comments: 175",
       "imageUrl": null,
       "tags": [
         "technology",
         "programming"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "2a7d6c7b9a7e77e4",
@@ -391,24 +442,7 @@
         "technology",
         "news"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
-    },
-    {
-      "id": "8b1c5f66e9ef032f",
-      "sourceKey": "hacker-news",
-      "sourceName": "Hacker News",
-      "section": "technology",
-      "title": "The Internet I Grew Up with Doesn't Exist Anymore",
-      "url": "https://cleberg.net/blog/internet.html",
-      "author": "felixdoerp",
-      "publishedAt": "2026-07-01T10:26:45.000Z",
-      "excerpt": "Article URL: https://cleberg.net/blog/internet.html Comments URL: https://news.ycombinator.com/item?id=48744655 Points: 220 # Comments: 217",
-      "imageUrl": null,
-      "tags": [
-        "technology",
-        "programming"
-      ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "c21fb4cb280af05f",
@@ -419,47 +453,30 @@
       "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
       "author": "pantalaimon",
       "publishedAt": "2026-07-01T10:07:04.000Z",
-      "excerpt": "Article URL: https://asahilinux.org/2026/06/progress-report-7-1/ Comments URL: https://news.ycombinator.com/item?id=48744518 Points: 415 # Comments: 123",
+      "excerpt": "Article URL: https://asahilinux.org/2026/06/progress-report-7-1/ Comments URL: https://news.ycombinator.com/item?id=48744518 Points: 430 # Comments: 134",
       "imageUrl": null,
       "tags": [
         "technology",
         "programming"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
-      "id": "aa1999d21ff9d0f6",
+      "id": "76eafcbc0b2b04e5",
       "sourceKey": "hacker-news",
       "sourceName": "Hacker News",
       "section": "technology",
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "author": "pjmlp",
-      "publishedAt": "2026-07-01T07:43:22.000Z",
-      "excerpt": "Article URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/ Commen...",
+      "title": "The first early human eggs from stem cells",
+      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+      "author": "dsr12",
+      "publishedAt": "2026-07-01T05:09:30.000Z",
+      "excerpt": "Article URL: https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells Comments URL: https://news.ycombinator.com/item?id=48742483 Points: 153 # Comments: 123",
       "imageUrl": null,
       "tags": [
         "technology",
         "programming"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
-    },
-    {
-      "id": "bcd5da3b2d036772",
-      "sourceKey": "product-hunt",
-      "sourceName": "Product Hunt",
-      "section": "business",
-      "title": "Saldor",
-      "url": "https://www.producthunt.com/products/saldor",
-      "author": "Jacob Bland",
-      "publishedAt": "2026-07-01T05:35:38.000Z",
-      "excerpt": "Discussion | Link",
-      "imageUrl": null,
-      "tags": [
-        "product",
-        "startup"
-      ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "58db50dca9e23bf6",
@@ -470,13 +487,13 @@
       "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
       "author": "subset",
       "publishedAt": "2026-07-01T02:51:36.000Z",
-      "excerpt": "Article URL: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ Comments URL: https://news.ycombinator.com/item?id=48741748 Points: 226 # Comments: 69",
+      "excerpt": "Article URL: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ Comments URL: https://news.ycombinator.com/item?id=48741748 Points: 233 # Comments: 70",
       "imageUrl": null,
       "tags": [
         "technology",
         "programming"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "63ab746458b25e6b",
@@ -494,7 +511,24 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
+    },
+    {
+      "id": "42120e9ca978632e",
+      "sourceKey": "hacker-news",
+      "sourceName": "Hacker News",
+      "section": "technology",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "author": "Pragmata",
+      "publishedAt": "2026-06-30T23:55:12.000Z",
+      "excerpt": "Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341 Comments URL: https://news.ycombinator.com/item?id=48740771 Points: 843 # Comments: 555",
+      "imageUrl": null,
+      "tags": [
+        "technology",
+        "programming"
+      ],
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "ff1a3bf76312305f",
@@ -505,13 +539,13 @@
       "url": "https://github.com/google/copybara",
       "author": "reconnecting",
       "publishedAt": "2026-06-30T23:45:39.000Z",
-      "excerpt": "Article URL: https://github.com/google/copybara Comments URL: https://news.ycombinator.com/item?id=48740698 Points: 276 # Comments: 53",
+      "excerpt": "Article URL: https://github.com/google/copybara Comments URL: https://news.ycombinator.com/item?id=48740698 Points: 277 # Comments: 54",
       "imageUrl": null,
       "tags": [
         "technology",
         "programming"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "3bfd16137ba70ed5",
@@ -528,7 +562,7 @@
         "technology",
         "news"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "8fccc7a2c509c055",
@@ -545,7 +579,7 @@
         "ai",
         "editorial"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "774fc1c48badffbb",
@@ -562,7 +596,7 @@
         "technology",
         "news"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "c8b4a144136cd52a",
@@ -579,7 +613,7 @@
         "technology",
         "news"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "a8ba230e8fa424dc",
@@ -596,24 +630,7 @@
         "technology",
         "news"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
-    },
-    {
-      "id": "7fa8ccaccba749dc",
-      "sourceKey": "hacker-news",
-      "sourceName": "Hacker News",
-      "section": "technology",
-      "title": "Leanstral 1.5",
-      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-      "author": "vetronauta",
-      "publishedAt": "2026-06-30T20:44:56.000Z",
-      "excerpt": "Article URL: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06 Comments URL: https://news.ycombinator.com/item?id=48738938 Points: 287 # Comments: 123",
-      "imageUrl": null,
-      "tags": [
-        "technology",
-        "programming"
-      ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "c3c548ef53c8b2a4",
@@ -630,7 +647,7 @@
         "technology",
         "news"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "ceeaa84de165faca",
@@ -647,7 +664,7 @@
         "technology",
         "news"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "8524bcc47677fd4a",
@@ -664,7 +681,7 @@
         "technology",
         "news"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "0b682be60c69a76a",
@@ -681,7 +698,7 @@
         "technology",
         "news"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "7b6e3b872b791bb9",
@@ -699,41 +716,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
-    },
-    {
-      "id": "33e08a800b23877c",
-      "sourceKey": "ars-technica",
-      "sourceName": "Ars Technica",
-      "section": "technology",
-      "title": "RFK Jr. stacks FDA panel with peptide peddlers as FDA scientists oppose access",
-      "url": "https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/",
-      "author": "Beth Mole",
-      "publishedAt": "2026-06-30T18:25:10.000Z",
-      "excerpt": "Peptide drugs are popular, but FDA scientists warn they're untested, may be harmful.",
-      "imageUrl": null,
-      "tags": [
-        "technology",
-        "news"
-      ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
-    },
-    {
-      "id": "d86341f29ec6951b",
-      "sourceKey": "product-hunt",
-      "sourceName": "Product Hunt",
-      "section": "business",
-      "title": "Claude Science",
-      "url": "https://www.producthunt.com/products/claude-for-desktop",
-      "author": "Chris Messina",
-      "publishedAt": "2026-06-30T18:19:10.000Z",
-      "excerpt": "Discussion | Link",
-      "imageUrl": null,
-      "tags": [
-        "product",
-        "startup"
-      ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "0b81e91b5073b3b5",
@@ -744,30 +727,13 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "author": "marinesebastian",
       "publishedAt": "2026-06-30T17:59:52.000Z",
-      "excerpt": "Article URL: https://www.anthropic.com/news/claude-sonnet-5 Comments URL: https://news.ycombinator.com/item?id=48736605 Points: 1215 # Comments: 748",
+      "excerpt": "Article URL: https://www.anthropic.com/news/claude-sonnet-5 Comments URL: https://news.ycombinator.com/item?id=48736605 Points: 1216 # Comments: 752",
       "imageUrl": null,
       "tags": [
         "technology",
         "programming"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
-    },
-    {
-      "id": "1649160ef425bff8",
-      "sourceKey": "product-hunt",
-      "sourceName": "Product Hunt",
-      "section": "business",
-      "title": "Clusy",
-      "url": "https://www.producthunt.com/products/clusy",
-      "author": "Eldar Hasanov",
-      "publishedAt": "2026-06-30T17:37:01.000Z",
-      "excerpt": "Discussion | Link",
-      "imageUrl": null,
-      "tags": [
-        "product",
-        "startup"
-      ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "98e4cf704a56d860",
@@ -784,24 +750,7 @@
         "github",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
-    },
-    {
-      "id": "2feb688ead041792",
-      "sourceKey": "ars-technica",
-      "sourceName": "Ars Technica",
-      "section": "technology",
-      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
-      "author": "Ashley Belanger",
-      "publishedAt": "2026-06-30T16:59:02.000Z",
-      "excerpt": "A year in, National Design Studio delays plan to update government web standards.",
-      "imageUrl": null,
-      "tags": [
-        "technology",
-        "news"
-      ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "3e34d67331b6bfd8",
@@ -819,7 +768,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "c6d1170cec6eb1da",
@@ -837,7 +786,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "c4f8a98824bd1fd1",
@@ -854,7 +803,7 @@
         "product",
         "startup"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "127cb5def46ef6e2",
@@ -871,7 +820,7 @@
         "ai",
         "editorial"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "2d91c774c64e2afb",
@@ -889,7 +838,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "69f00bc4de6236f4",
@@ -907,7 +856,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "9d4200744037bdec",
@@ -924,7 +873,41 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
+    },
+    {
+      "id": "583d2baebba1a1b1",
+      "sourceKey": "product-hunt",
+      "sourceName": "Product Hunt",
+      "section": "business",
+      "title": "Get Transparent Pricing on Labs",
+      "url": "https://www.producthunt.com/products/mito-health",
+      "author": "Garry Tan",
+      "publishedAt": "2026-06-30T06:01:25.000Z",
+      "excerpt": "Discussion | Link",
+      "imageUrl": null,
+      "tags": [
+        "product",
+        "startup"
+      ],
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
+    },
+    {
+      "id": "1139412255722498",
+      "sourceKey": "product-hunt",
+      "sourceName": "Product Hunt",
+      "section": "business",
+      "title": "Livinity",
+      "url": "https://www.producthunt.com/products/livinity",
+      "author": "Livinity IO",
+      "publishedAt": "2026-06-30T04:36:55.000Z",
+      "excerpt": "Discussion | Link",
+      "imageUrl": null,
+      "tags": [
+        "product",
+        "startup"
+      ],
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "f1f7548c4b03fab2",
@@ -941,7 +924,7 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "a3467a0d65259212",
@@ -958,7 +941,7 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "40413bb2aaaa186e",
@@ -975,7 +958,7 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "01bbb4562ec5fc98",
@@ -993,41 +976,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
-    },
-    {
-      "id": "d7c117ac3b0b7e04",
-      "sourceKey": "product-hunt",
-      "sourceName": "Product Hunt",
-      "section": "business",
-      "title": "Stigg 2.0",
-      "url": "https://www.producthunt.com/products/stigg",
-      "author": "Ben Lang",
-      "publishedAt": "2026-06-29T19:47:16.000Z",
-      "excerpt": "Discussion | Link",
-      "imageUrl": null,
-      "tags": [
-        "product",
-        "startup"
-      ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
-    },
-    {
-      "id": "6da88ccbd0c1dd1b",
-      "sourceKey": "product-hunt",
-      "sourceName": "Product Hunt",
-      "section": "business",
-      "title": "LightTwist",
-      "url": "https://www.producthunt.com/products/lighttwist",
-      "author": "Garry Tan",
-      "publishedAt": "2026-06-29T19:38:13.000Z",
-      "excerpt": "Discussion | Link",
-      "imageUrl": null,
-      "tags": [
-        "product",
-        "startup"
-      ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "6c5c23b0d1e33b02",
@@ -1045,7 +994,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "329af78e7ec8c0fb",
@@ -1062,7 +1011,7 @@
         "ai",
         "editorial"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "b68e11a2e8b70323",
@@ -1079,7 +1028,7 @@
         "github",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "41c43eb9418443b1",
@@ -1096,7 +1045,7 @@
         "github",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "7e5099d157cb0ba7",
@@ -1113,7 +1062,7 @@
         "ai",
         "editorial"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "e136423645493dbf",
@@ -1130,7 +1079,7 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "d82523a393b13a9b",
@@ -1147,7 +1096,41 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
+    },
+    {
+      "id": "4585fadcc49128bf",
+      "sourceKey": "product-hunt",
+      "sourceName": "Product Hunt",
+      "section": "business",
+      "title": "Metal",
+      "url": "https://www.producthunt.com/products/metal-2",
+      "author": "Kevin William David",
+      "publishedAt": "2026-06-27T09:34:43.000Z",
+      "excerpt": "Discussion | Link",
+      "imageUrl": null,
+      "tags": [
+        "product",
+        "startup"
+      ],
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
+    },
+    {
+      "id": "fc0931abebd09b4e",
+      "sourceKey": "product-hunt",
+      "sourceName": "Product Hunt",
+      "section": "business",
+      "title": "Mark by Airtop",
+      "url": "https://www.producthunt.com/products/airtop",
+      "author": "Ben Lang",
+      "publishedAt": "2026-06-26T19:21:13.000Z",
+      "excerpt": "Discussion | Link",
+      "imageUrl": null,
+      "tags": [
+        "product",
+        "startup"
+      ],
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "b7a959042548b12a",
@@ -1165,7 +1148,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "99598c2fd7de8fd5",
@@ -1183,7 +1166,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "40192cb2bf47f046",
@@ -1200,7 +1183,7 @@
         "github",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "370f53ed62664316",
@@ -1217,7 +1200,7 @@
         "github",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "d606741e55402272",
@@ -1234,7 +1217,7 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "18d9ff4390b27724",
@@ -1252,7 +1235,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "7f7593ebab731de9",
@@ -1269,7 +1252,7 @@
         "github",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "d2631e3268662fcd",
@@ -1286,7 +1269,24 @@
         "ai",
         "editorial"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
+    },
+    {
+      "id": "08e436cc41703ba0",
+      "sourceKey": "product-hunt",
+      "sourceName": "Product Hunt",
+      "section": "business",
+      "title": "Browser Notes",
+      "url": "https://www.producthunt.com/products/browser-notes",
+      "author": "Rohan Chaubey",
+      "publishedAt": "2026-06-25T09:22:31.000Z",
+      "excerpt": "Discussion | Link",
+      "imageUrl": null,
+      "tags": [
+        "product",
+        "startup"
+      ],
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "218fd2fc33824ca6",
@@ -1303,7 +1303,7 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "bfafb2892cdece6d",
@@ -1321,7 +1321,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "0496c02d73e9a5ab",
@@ -1338,7 +1338,7 @@
         "ai",
         "editorial"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "d3b0460bb0685978",
@@ -1355,7 +1355,7 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "a580105e210b19e4",
@@ -1373,7 +1373,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "853a427f7cdef97f",
@@ -1390,7 +1390,7 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "ead2d78127fe079f",
@@ -1407,7 +1407,7 @@
         "github",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "38eaee5e20f9c864",
@@ -1424,7 +1424,7 @@
         "github",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "547588a30e895d9b",
@@ -1441,7 +1441,7 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "5adcc2b2491bf637",
@@ -1458,7 +1458,7 @@
         "ai",
         "editorial"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "58cf2974d619b374",
@@ -1475,7 +1475,7 @@
         "product",
         "startup"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "033714441b33269a",
@@ -1492,7 +1492,7 @@
         "ai",
         "official"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "bd94133eca6b6164",
@@ -1510,7 +1510,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "a2865f5f65e545b9",
@@ -1528,7 +1528,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "ea2606e614977338",
@@ -1546,7 +1546,7 @@
         "payments",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "d3136af741685863",
@@ -1563,7 +1563,7 @@
         "ai",
         "editorial"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "7f25fc30b8dedc6d",
@@ -1580,7 +1580,7 @@
         "github",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "c438fd08a4a5bdee",
@@ -1598,7 +1598,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "c88dfe4491c1cb21",
@@ -1615,7 +1615,7 @@
         "product",
         "startup"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "29ce719bcb78d65c",
@@ -1633,7 +1633,7 @@
         "machine-learning",
         "tooling"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "7f8ba2700cdd9930",
@@ -1651,7 +1651,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "e181d9c4b8631ac4",
@@ -1669,7 +1669,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "329d30bb9d7c855f",
@@ -1686,7 +1686,7 @@
         "ai",
         "editorial"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "19af0e9ae1fd07f0",
@@ -1704,7 +1704,7 @@
         "payments",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "177c766823dbea42",
@@ -1722,7 +1722,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "f50436e80132a388",
@@ -1739,7 +1739,7 @@
         "product",
         "startup"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "799c1aa63279deea",
@@ -1757,7 +1757,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "3162cf0c1b8d3281",
@@ -1775,7 +1775,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "a2e39a2609a383bb",
@@ -1793,7 +1793,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "91cc5d6f21360cd8",
@@ -1811,7 +1811,7 @@
         "payments",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "58b932838372ebb7",
@@ -1828,7 +1828,7 @@
         "product",
         "startup"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "ea77f04166bd8db3",
@@ -1846,7 +1846,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "d6a4b805eb8e7ed5",
@@ -1864,7 +1864,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "3ad752738d5775bd",
@@ -1882,7 +1882,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "8a3decbe2927ddee",
@@ -1900,7 +1900,7 @@
         "payments",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "e6be9c187b2e1c28",
@@ -1918,7 +1918,7 @@
         "payments",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "f214cec891fbc905",
@@ -1936,7 +1936,7 @@
         "payments",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "c1fc580e70c12542",
@@ -1954,7 +1954,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "938f8e05af3af123",
@@ -1972,7 +1972,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "facb0261e7094099",
@@ -1990,7 +1990,7 @@
         "payments",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "a3ca6a6bc2c882f0",
@@ -2008,7 +2008,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "baed8df0306a61ef",
@@ -2026,7 +2026,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "65d82dc69bcadd32",
@@ -2044,7 +2044,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "ec24344688a1c15a",
@@ -2062,7 +2062,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "34c162b80695f0ed",
@@ -2080,7 +2080,7 @@
         "payments",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "eda6cecc65aa9b86",
@@ -2098,7 +2098,7 @@
         "payments",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "4a72da322c124dd2",
@@ -2116,7 +2116,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "11b57dfd4a2028f0",
@@ -2134,7 +2134,7 @@
         "ux",
         "research"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "e09f2f59c47e2da7",
@@ -2152,7 +2152,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "998ecb6a68a267d1",
@@ -2170,7 +2170,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "0ab492c9974dcf45",
@@ -2188,7 +2188,7 @@
         "frontend",
         "ux"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "9c705bca8bca1c6b",
@@ -2205,7 +2205,7 @@
         "product",
         "startup"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "45b9ebf12ed71edb",
@@ -2223,7 +2223,7 @@
         "payments",
         "engineering"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "cadc398874f60043",
@@ -2241,7 +2241,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "5bbc6fc27f346d27",
@@ -2258,7 +2258,7 @@
         "product",
         "startup"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "b004d35721ef36b4",
@@ -2276,7 +2276,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "6b6f8d31b1b23110",
@@ -2294,7 +2294,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "fd731036359632d8",
@@ -2312,7 +2312,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "ab2a9d8d31f20992",
@@ -2330,7 +2330,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "b6bc1472d4e007f3",
@@ -2348,7 +2348,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "b16e587cca7f1e9b",
@@ -2366,7 +2366,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "8de8e859b8011c41",
@@ -2384,7 +2384,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "784c793ee9eddab0",
@@ -2402,7 +2402,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "2dc452c6980863ec",
@@ -2420,7 +2420,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "24884ae22cb836e2",
@@ -2438,7 +2438,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "7ac232048c863ad1",
@@ -2456,7 +2456,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "f2073c573435d81b",
@@ -2474,7 +2474,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "8d0c212771844bb6",
@@ -2492,7 +2492,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "28934af92e97f33e",
@@ -2510,7 +2510,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "0fbc05367e0d398a",
@@ -2528,7 +2528,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "8ea6a76ae96fe2ce",
@@ -2546,7 +2546,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "5a8d9c1dc2613182",
@@ -2564,7 +2564,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "fe10d2ef6078ad28",
@@ -2582,7 +2582,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "4ea69c3a0ec6c195",
@@ -2600,7 +2600,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "b84ae01ea9d0dd33",
@@ -2618,7 +2618,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "57697a122b1dbf19",
@@ -2636,7 +2636,7 @@
         "research",
         "essays"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     },
     {
       "id": "845e3843941465b8",
@@ -2654,7 +2654,7 @@
         "ux",
         "web"
       ],
-      "firstSeenAt": "2026-07-01T16:10:10.843Z"
+      "firstSeenAt": "2026-07-01T16:42:24.140Z"
     }
   ]
 }
